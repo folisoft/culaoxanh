@@ -1,0 +1,145 @@
+body{
+  margin: auto;
+}
+.col-md-3 {
+  width: 50%;
+  padding: 0% 0% 0% 15%;
+}
+.col-sm-12{
+  width: 100%;
+}
+.col-lg-4, .col-lg-8 {
+  margin-top: srem;
+}
+.img {
+  text-align: center;
+  width: 100% !important;
+  padding: 0;
+}
+.portfolio-area {
+  padding: 1rem;
+}
+.text-right, .justify-content {
+  text-align: center;
+}
+.carol-size-1{
+  width: 100%;
+  height: 500px;
+}
+.video-size{
+  width: 100% !important;
+  height: 200px !important;
+}
+.portfolio-area{
+  padding: 0 !important;
+  margin-top: 2rem !important;
+}
+.p-3{
+  padding: 0 !important;
+  width: 100%;
+}
+.justify-content-center{
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+.group {
+  margin-top: 1rem !important;
+}
+.logo-footer{
+  width: 35%;
+  height: auto;
+}
+.mobile-footer{
+  position: absolute;
+  top: 14rem;
+  width: 100%;
+  text-align: center;
+}
+.layer{
+  height: 0;
+}
+.copyright-box, .mt-n5{
+  margin-top: 0 !important;
+}
+.copyright-text, .img-footer{
+  padding: 0 !important;
+}
+.content-footer{
+  background-image: url('../img/QNH/backgroud-bottom.png');
+  width: 100%;
+}
+.mt-n5 {
+  margin-top: 0 !important;
+}
+.copyright-box-mobile {
+  display: blocks;
+  margin-top: 0 !important;
+  padding: 4% !important;
+}
+.logo-footer-position{
+  left: 0%;
+  top: 14%;
+  width: 100%;
+}
+.footer-mobile {
+  display: block;
+}
+.footer-desktop, .left-right-decorate, .right-info-desktop, #logo-image-, #bottom-content{
+  display: none;
+}
+.content-footer-position{
+  position: absolute;
+  top: 35%;
+  width: 90%;
+}
+.container {
+  width: 100%;
+  max-width: inherit;
+}
+.container-desktop {
+ display: none;
+}
+.container-mobile {
+  display: block;
+  position: absolute;
+  top: 22rem;
+}
+.btn-primary {
+  background-color: #4089ed;
+  color: white;
+}
+.btn-qoute {
+  margin-top: 1rem;
+  width: 100%;
+}
+.carousel{
+  width: 100%;
+}
+.right-info{
+  float: right;
+}
+.right-info-mobile{
+  display: block;
+  margin-top: 2rem !important;
+}
+.carousel-item .img{
+  width: 100% !important;
+}
+.collapse-button{
+  display: block;
+  width: 100%;
+}
+.navbar-collapse{
+  padding-bottom: 30rem;
+  padding-right: 0%;
+  top: 0;
+}
+.close-item{
+  display: block;
+}
+.logo-header{
+  margin: auto;
+}
+.right-info-title{
+  text-align: right;
+}
